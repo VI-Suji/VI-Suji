@@ -31,8 +31,7 @@
 
 - 🔭 I’m currently working on [React](https://reactjs.org).
 - 🌱 I’m currently learning more about BlockChain.
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me any tech related stuff.
 - 📫 How to reach me: [Twitter - @sujithvi](https://twitter.com/sujithvi) , [instagram - @vi_suji](https://instagram.com/vi_suji)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend hours listening songs everyday.
