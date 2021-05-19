@@ -62,7 +62,7 @@
 
 </a>
 <a href="https://github.com/VI-Suji/SecureElectron">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VI-Suji&repo=SecureElectron&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VI-Suji&repo=Movie Mania&theme=light" />
 </a>
 
 <div align="center">
