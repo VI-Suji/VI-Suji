@@ -36,10 +36,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend hours listening songs everyday.
 
-[![Twitter: sujithvi](https://img.shields.io/twitter/follow/sujithvi?style=social)](https://twitter.com/sujithvi)
-[![Linkedin: sujithvi](https://img.shields.io/badge/-sujithvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujithvi/)](https://www.linkedin.com/in/sujithvi/)
 [![GitHub VI-Suji](https://img.shields.io/github/followers/VI-Suji?label=follow&style=social)](https://github.com/VI-Suji)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Suji.live-2648ff?style=flat-square&logo=google-chrome)](https://Suji.live/)
 
 
 **Languages and Tools:**  
