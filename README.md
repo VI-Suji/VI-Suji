@@ -33,7 +33,7 @@
 <!-- - 🌱 I’m currently learning more about BlockChain. -->
 - 🔭 I’m currently working on [React](https://reactjs.org).
 - 💬 Ask me any tech related stuff.
-- 📫 How to reach me: [Twitter - @sujithvi](https://twitter.com/sujithvi) , [instagram - @vi_suji](https://instagram.com/vi_suji)
+- 📫 How to reach me: [instagram - @vi_suji](https://instagram.com/vi_suji)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend hours listening songs everyday.
 
